@@ -1,0 +1,11 @@
+Dubai Intl Airport,Dubai,UAE
+Islamabad Intl Airport,Islamabad,Pakistan
+Jinnah Intl Airport,Karachi,Pakistan
+Iqbal Intl Airport,Lahore,Pakistan
+Aziz Intl Airport,Jeddah,Saudi Arabia
+Heathrow Intl Airport,London,United Kingdom
+J F Kenedy Intl Airport,New York,USA
+Jiangus Intl Airport,Jiangsu,China
+Osaka Intl Airport,Osaka,Japan
+NY Intl Aiport,NY,USA
+Los Intl Airport,LA,USA

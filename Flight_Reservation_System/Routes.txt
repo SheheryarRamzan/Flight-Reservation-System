@@ -1,0 +1,8 @@
+PAS786,International,ISB Intl Airport,Islamabad,Pakistan,Heathrow Intl Airport, London, UK
+PAS777,International,Jinnah Intl Airport,Karachi,Pakistan,Aziz Intl Airport,Jeddah,Saudi Arabia
+PAS787,International,Aziz Intl Airport,Jeddah,Saudi Arabia,Jinnah Intl Airport,Karachi,Pakistan
+PAS386,Domestic,ISB Intl Airport,Islamabad,Pakistan,Jinnah Intl Airport,Karachi,Pakistan
+PAS797,Domestic,Iqbal Intl Airport,Lahore,Pakistan,Jinnah Intl Airport,Karachi,Pakistan
+PS787,International,Dubai Intl Airport,Dubai,UAE,J F Kenedy Intl Airport,New York,USA
+PAS786,International,J F Kenedy Intl Airport,New York,USA,Dubai Intl Airport,Dubai,UAE
+PAS777,International,Heathrow Intl Airport,London,UK,Aziz Intl Airport,Jeddah,Saudi Arabia
